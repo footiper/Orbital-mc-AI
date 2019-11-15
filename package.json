@@ -1,0 +1,25 @@
+{
+  "name": "orbital-mc-ai",
+  "version": "1.0.0",
+  "description": "A mc bot loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrbitalT/Orbital-mc-AI.git"
+  },
+  "keywords": [
+    "Minecraft"
+  ],
+  "author": "NukeZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrbitalT/Orbital-mc-AI/issues"
+  },
+  "homepage": "https://github.com/OrbitalT/Orbital-mc-AI#readme",
+  "dependencies": {
+    "mineflayer": "^2.10.0"
+  }
+}
